@@ -28,40 +28,29 @@ const developer = {
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills  
 
-<div align="center">
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"/> &nbsp;
+</p>
 
-### Languages
-![Python](https://skillicons.dev/icons?i=python)&nbsp;&nbsp;
-![Java](https://skillicons.dev/icons?i=java)&nbsp;&nbsp;
-![JavaScript](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;
-![C++](https://skillicons.dev/icons?i=cpp)&nbsp;&nbsp;
-![PHP](https://skillicons.dev/icons?i=php)&nbsp;&nbsp;
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=r" height="50" alt="R"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind"/> &nbsp;
+</p>
 
-### Web Development
-![React](https://skillicons.dev/icons?i=react)&nbsp;&nbsp;
-![HTML5](https://skillicons.dev/icons?i=html)&nbsp;&nbsp;
-![CSS3](https://skillicons.dev/icons?i=css)&nbsp;&nbsp;
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)&nbsp;&nbsp;
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### AI & Data Science
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)&nbsp;&nbsp;
-![PyTorch](https://skillicons.dev/icons?i=pytorch)&nbsp;&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Platforms
-![AWS](https://skillicons.dev/icons?i=aws)&nbsp;&nbsp;
-![Git](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
-![VS Code](https://skillicons.dev/icons?i=vscode)&nbsp;&nbsp;
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)&nbsp;&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
 
 ---
 
