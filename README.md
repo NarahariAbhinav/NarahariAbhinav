@@ -23,7 +23,7 @@
 ### 👨‍💻 Narahari Abhinav
 > *Final-year CSE (Data Science) student at NMIMS University, building AI-powered products that solve real problems — from disaster response apps to intelligent resume analyzers.*
 
-🔭 &nbsp;**Currently:** SDE Intern @ Svamatio LLP  
+🔭 &nbsp;**Experience:** SDE Intern(6 Months) @ Svamatio LLP  
 🎓 &nbsp;**Education:** B.Tech CSE – Data Science, NMIMS University  
 🌍 &nbsp;**Location:** India 🇮🇳  
 💡 &nbsp;**Focus:** Offline-first apps · AI/ML systems · Full-stack products  
